@@ -1,0 +1,4 @@
+Model,Architecture,Micro F1,Macro F1,Jaccard Score
+SVM,Linear Classifier,0.0000,0.0000,0.0000
+BiLSTM,Neural Network (RNN),0.0000,0.0000,0.0000
+DistilRoBERTa-Base,Transformer (RoBERTa),0.7284,0.3279,0.6661

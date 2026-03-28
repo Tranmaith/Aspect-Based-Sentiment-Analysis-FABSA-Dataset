@@ -1,0 +1,2 @@
+Model,Architecture,Training Samples,Validation Samples,Test Samples,Micro F1,Macro F1,Jaccard,Hamming Loss
+DistilRoBERTa-Base,Transformer (RoBERTa),7930,1057,1587,0.7284,0.3279,0.6661,0.0243

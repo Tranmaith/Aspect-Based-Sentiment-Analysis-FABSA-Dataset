@@ -1,0 +1,13 @@
+Review_ID,Aspect,Sentiment,Confidence,Review_Text
+1,Company brand: General satisfaction#positive,Highly Positive,0.7969718,"The food quality was exceptional and fresh, but the service was slow and the prices are way too high."
+1,Logistics rides: Speed#positive,Positive,0.688152,"The food quality was exceptional and fresh, but the service was slow and the prices are way too high."
+2,Staff support: Attitude of staff#positive,Neutral,0.6081766,"Loved the ambiance and the friendly staff, though the menu options are limited."
+3,Company brand: General satisfaction#negative,Neutral,0.6402371,"Horrible experience. The restaurant is dirty, the bathroom is disgusting, and the wait time was forever."
+3,Logistics rides: Speed#negative,Neutral,0.5555866,"Horrible experience. The restaurant is dirty, the bathroom is disgusting, and the wait time was forever."
+4,Company brand: General satisfaction#positive,Highly Positive,0.9705432,Perfect location with great views. The wine selection is amazing. Highly recommended!
+5,Company brand: General satisfaction#negative,Neutral,0.56527746,"The pasta was overcooked, the sauce lacked flavor, and the waiter was rude."
+6,Staff support: Attitude of staff#positive,Highly Positive,0.9316118,Excellent presentation and beautiful plating. Service was attentive and prices are reasonable.
+6,Value: Price value for money#positive,Highly Positive,0.80069214,Excellent presentation and beautiful plating. Service was attentive and prices are reasonable.
+8,Company brand: Competitor#positive,Slightly Negative,0.5121444,"Best restaurant in town! Everything was perfect - food, service, atmosphere, and value for money."
+8,Company brand: General satisfaction#positive,Highly Positive,0.96692145,"Best restaurant in town! Everything was perfect - food, service, atmosphere, and value for money."
+8,Value: Price value for money#positive,Positive,0.7071939,"Best restaurant in town! Everything was perfect - food, service, atmosphere, and value for money."

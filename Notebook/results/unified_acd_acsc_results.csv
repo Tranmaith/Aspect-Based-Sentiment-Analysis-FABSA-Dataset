@@ -1,0 +1,6 @@
+Aspect,ACD_Detected,Probability,ACSC_Sentiment,Review,Review_ID
+Company brand: General satisfaction#negative,1,0.52109194,Negative,The food was amazing but the service was terrible and overpriced.,0
+Value: Price value for money#negative,1,0.6606231,Neutral,The food was amazing but the service was terrible and overpriced.,0
+Staff support: Attitude of staff#positive,1,0.9542635,Positive,"Great ambiance, friendly staff, and excellent wine selection!",1
+Company brand: General satisfaction#negative,1,0.70046103,Positive,The decor is outdated and the bathroom is dirty.,2
+Company brand: General satisfaction#positive,1,0.80585676,Positive,Perfect location near the city center. Worth the money!,3

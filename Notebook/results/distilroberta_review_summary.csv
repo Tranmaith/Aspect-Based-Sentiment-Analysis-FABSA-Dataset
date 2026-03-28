@@ -1,0 +1,9 @@
+Review_ID,Review_Text,Num_Aspect_Pairs,Avg_Confidence
+1,"The food quality was exceptional and fresh, but the service was slow and the prices are way too high.",2,0.742561936378479
+2,"Loved the ambiance and the friendly staff, though the menu options are limited.",1,0.608176589012146
+3,"Horrible experience. The restaurant is dirty, the bathroom is disgusting, and the wait time was forever.",2,0.5979118347167969
+4,Perfect location with great views. The wine selection is amazing. Highly recommended!,1,0.9705432057380676
+5,"The pasta was overcooked, the sauce lacked flavor, and the waiter was rude.",1,0.5652774572372437
+6,Excellent presentation and beautiful plating. Service was attentive and prices are reasonable.,2,0.8661519289016724
+7,Cold food served late. The noise level made conversation impossible. Staff seemed disinterested.,0,0.0
+8,"Best restaurant in town! Everything was perfect - food, service, atmosphere, and value for money.",3,0.7287532687187195

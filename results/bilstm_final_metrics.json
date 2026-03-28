@@ -1,0 +1,16 @@
+{
+    "Model": "Joint BiLSTM",
+    "Architecture": "Bidirectional LSTM (Hidden: 256, Dropout: 0.3)",
+    "Test_Metrics": {
+        "Micro F1": 0.6264,
+        "Macro F1": 0.2402,
+        "Hamming Loss": 0.0301,
+        "Jaccard Score": 0.5277,
+        "Loss": 0.0848
+    },
+    "Training_Metadata": {
+        "Epochs_Completed": 17,
+        "Best_Val_Loss": 0.08,
+        "Device": "cpu"
+    }
+}
